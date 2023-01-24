@@ -1,19 +1,19 @@
 [
   {
-    "username": "Alice",
+    "username": "alice",
     "roles": "Owner",
     "pp": "https://avatars.githubusercontent.com/u/38856824?v=4",
     "background": "https://raw.githubusercontent.com/Sn0wAlice/Babel-Underground/main/.github/wall.webp"
   },
   {
     "username": "Aptura",
-    "roles": "admin",
+    "roles": "Admin",
     "pp": "https://avatars.githubusercontent.com/u/31808221?v=4",
     "background": "https://github.com/Aptura/Aptura/blob/master/img/wallpaperflare.com_wallpaper1_azea.jpg?raw=true"
   },
   {
     "username": "citron_01",
-    "roles": "admin",
+    "roles": "Admin",
     "pp": "https://avatars.githubusercontent.com/u/99495747?v=4",
     "background": "http://wallpapercave.com/wp/wp1843970.jpg"
   }
